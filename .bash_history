@@ -54,3 +54,85 @@ ln Lab3hardlink.txt lab3txt
 ln filetolink lab3txt
 ln Lab3hardlink.txt lab3txt
 cat
+ln Lab3symboliclink.txt-s
+-sLab3symboliclink.txt 
+Lab3symboliclink.txt-s
+ln Lab3symboliclink.txt
+lnLab3symboliclink.txt
+ln Lab3symboliclink.txt -s
+cat Lab3hardlink.txt
+cat Lab3symboliclink.txt
+unlink
+Lab3symboliclink.txt
+unlink Lab3symboliclink.txt
+-a
+-f
+/usr/bin directory
+/
+cd
+cd /usr/bin directory
+-a
+-l
+-f
+cd/usr/bin directory
+/usr/bin directory
+cd
+/usr/bin directory
+cd /usr/bin directory
+cd
+cd-a
+cd-f
+cd-l
+cd-i
+cd
+cd '/home/923909035/ENGR212_Lovato_Aaron/Lab 3'
+cd /usr/bin
+-a
+-i
+-l
+cd
+/ENGR212_Lovato_Aaron/Lab 3
+cd ENGR212
+git add --all
+git commit -m “Lab3 commit”
+git commit -m “Lab 3 commit"
+git push
+
+
+
+
+git push
+
+git commit -m “Lab 3 commit"
+git commit -m Lab 3 commit
+git commit -m lab 3
+git commit -m “Lab 3 commit"
+push
+get push
+-a
+git add --all
+git commit -m “Lab 3 commit"
+git add --all git commit -m “Lab 3 commit” git push
+git add --all git commit-m “Lab 3 commit” git push
+git add --all git commit -m “Lab 3 commit” git push
+--[no]all
+--all
+-n
+git add --all git commit -m “Lab 3 commit” git push
+-n
+mkdir
+mkdir lab4
+cd lab4
+mkdir lab4
+cd lab4
+unzip 04_Lyrics(1).zip
+unzip 04_Lyrics (1).zip
+unzip 04_Lyrics.zip
+unzip 04_Lyrics(1).zip
+unzip 04_Lyrics.zip
+unzip 04_Lyrics (1).zip
+unzip 04_Lyrics(1).zip.zip
+unzip 04_Lyrics1).zip
+unzip 04_Lyrics1.zip
+unzip 04_Lyrics.zip
+del 04_Lyrics.zip
